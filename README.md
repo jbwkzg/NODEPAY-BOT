@@ -2,11 +2,6 @@
 
 Before running the script, ensure you have Python installed on your machine. Then, install the necessary Python packages using:
 
-# clone repo
- ```sh
-    git clone https://github.com/0xmiwe/nodepay-.git 
-    cd nodepay-
- ```
 # create `token.txt` edit this file example :
  ```sh
  ey1
