@@ -25,7 +25,7 @@ Before running the script, ensure you have Python installed on your machine. The
 
  1. To Run Script with proxy
    ```sh
-   python3 main.py
+   python main.py
    ``` 
  2. ctrl a d for close screen
 
